@@ -27,6 +27,12 @@ The data directory structure is shown as follows:
 ## Get Started
 ### Dependencies
 We strongly recommend that you can use [VSCode](https://code.visualstudio.com/) and [Docker](https://www.docker.com/) for this project, it can save you much time😁! Note that the related configurations has already been within `.devcontainer`. The detail information can be found in this [Tutorial_for_Vscode&Dokcer](https://github.com/Devin-Pi/Tutorial_for_VScode_Docker).
+The environment:
+- cuda:11.8.0
+- cudnn: 8
+- python: 3.10
+- pytorch: 2.1.0
+- pytorch lightning: 2.1
 ### Configurations
 The realted configurations are all saved in `config/`. 
 - The `data_simu.yaml` is used to configure the data generation. 

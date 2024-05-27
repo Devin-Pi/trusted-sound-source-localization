@@ -26,7 +26,7 @@ The data directory structure is shown as follows:
 
 ## Get Started
 ### Dependencies
-We strongly recommend that you can use [VSCode](https://code.visualstudio.com/) and [Docker](https://www.docker.com/) for this project, it can save you much time😁! Note that the related configurations has already been within `.devcontainer`. The detail information can be found in this [Tutorial_for_Vscode&Dokcer](http://rdpi.myds.me:90/archives/7/).
+We strongly recommend that you can use [VSCode](https://code.visualstudio.com/) and [Docker](https://www.docker.com/) for this project, it can save you much time😁! Note that the related configurations has already been within `.devcontainer`. The detail information can be found in this [Tutorial_for_Vscode&Dokcer]([http://rdpi.myds.me:90/archives/7/](https://github.com/Devin-Pi/Tutorial_for_VScode_Docker)).
 ### Configurations
 The realted configurations are all saved in `config/`. 
 - The `data_simu.yaml` is used to configure the data generation. 

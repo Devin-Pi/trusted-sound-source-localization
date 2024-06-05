@@ -38,7 +38,7 @@ The environment:
 The realted configurations are all saved in `config/`. 
 - The `data_simu.yaml` is used to configure the data generation. 
 - The `tcrnn.yaml` is used to configure the dataloader, model training & test.
-
+Note: Do not forget to intall [gpuRIR](https://github.com/DavidDiazGuerra/gpuRIR) and [webrtcvad](https://github.com/wiseman/py-webrtcvad).
 You can change the value of these items based on your need.
 ### Quick Start🚀
 - **Data Generation**

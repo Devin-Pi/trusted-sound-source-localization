@@ -43,7 +43,7 @@ You can change the value of these items based on your need.
 
 Note: Do not forget to intall [gpuRIR](https://github.com/DavidDiazGuerra/gpuRIR) and [webrtcvad](https://github.com/wiseman/py-webrtcvad).
 
-🚀### Quick Start
+### 🚀 Quick Start
 - **Data Generation**
 
 Generate the training data:
@@ -64,7 +64,7 @@ python main_crnn.py test --config /workspaces/tssl/config/tcrnn.yaml
 ```
 If you want to evaluate the model using the Single GPU, you can change the value of the `devices` from `"0,1"` to `"0,"` in the `config/tcrnn.yaml`.
 
-🎓## Citation
+## 🎓 Citation
 If you find our work useful in your research, please consider citing:
 ```
 

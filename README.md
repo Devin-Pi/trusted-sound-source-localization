@@ -67,7 +67,16 @@ If you want to evaluate the model using the Single GPU, you can change the value
 ## 🎓 Citation
 If you find our work useful in your research, please consider citing:
 ```
-
+@inproceedings{pi2024tssl,
+  title={TSSL: Trusted Sound Source Localization},
+  author={Pi, Rendong and Song, Yang and Li, Linfeng and Yu, Xiang and Cheng, Li},
+  booktitle={INTER-NOISE and NOISE-CON Congress and Conference Proceedings},
+  volume={270},
+  number={11},
+  pages={941--949},
+  year={2024},
+  organization={Institute of Noise Control Engineering}
+}
 ```
 ## Acknowledge
 This repository adapts and integrates from some wonderful work, shown as follows:
